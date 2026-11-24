@@ -207,11 +207,11 @@ The potential for loss or damage when a threat exploits a vulnerability.
 
 When investigating an incident, ask:
 
-1. **Who?** — Threat actor.
-2. **Where from?** — Threat source.
-3. **How?** — Threat vector.
-4. **What?** — Malware or attack technique.
-5. **Which weakness?** — Vulnerability.
-6. **What happened?** — Impact.
-7. **How serious?** — Risk.
+1. **Who?** - Threat actor.
+2. **Where from?** - Threat source.
+3. **How?** - Threat vector.
+4. **What?** - Malware or attack technique.
+5. **Which weakness?** - Vulnerability.
+6. **What happened?** - Impact.
+7. **How serious?** - Risk.
 ---
