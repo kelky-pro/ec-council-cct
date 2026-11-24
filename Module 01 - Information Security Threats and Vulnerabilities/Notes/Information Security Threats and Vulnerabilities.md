@@ -127,8 +127,6 @@ Examples of LOLBins:
 - Encrypted files and demanded ransom.
 - Disrupted healthcare and other organizations worldwide.
 
-[WannaCry incident and screenshot – Microsoft](https://www.microsoft.com/en-us/security/blog/2017/05/12/wannacrypt-ransomware-worm-targets-out-of-date-systems/)
-
 **Mirai (2016) — Botnet**
 
 - Infected poorly secured IoT devices.
