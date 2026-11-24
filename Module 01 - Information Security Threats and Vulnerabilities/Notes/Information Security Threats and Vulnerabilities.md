@@ -120,14 +120,14 @@ Examples of LOLBins:
 
 ### Real Malware Incidents
 
-**WannaCry (2017) — Ransomware + Worm**
+**WannaCry (2017) - Ransomware + Worm**
 
 - Exploited Windows SMB vulnerabilities.
 - Used EternalBlue.
 - Encrypted files and demanded ransom.
 - Disrupted healthcare and other organizations worldwide.
 
-**Mirai (2016) — Botnet**
+**Mirai (2016) - Botnet**
 
 - Infected poorly secured IoT devices.
 - Exploited weak/default credentials.
@@ -181,25 +181,25 @@ The potential for loss or damage when a threat exploits a vulnerability.
 
 ### Real-World Incidents
 
-**Equifax (2017) — Application Vulnerability**
+**Equifax (2017) - Application Vulnerability**
 
 - Attackers exploited Apache Struts CVE-2017-5638.
 - Sensitive personal information was exposed.
 - Demonstrated the importance of patch management.
 
-**Capital One (2019) — Cloud Security**
+**Capital One (2019) - Cloud Security**
 
 - SSRF was used to obtain cloud credentials.
 - Unauthorized access to stored data followed.
 - Demonstrated the importance of IAM and cloud security.
 
-**MOVEit (2023) — Zero-Day**
+**MOVEit (2023) - Zero-Day**
 
 - SQL injection vulnerability in MOVEit Transfer.
 - Attackers exploited CVE-2023-34362.
 - Data theft affected numerous organizations.
 
-**SolarWinds (2020) — Third-Party Risk**
+**SolarWinds (2020) - Third-Party Risk**
 
 - Attackers compromised a software supply chain.
 - Malicious code was distributed through trusted updates.
