@@ -7,7 +7,7 @@ This repository is organized around the exam blueprint.
 ## Module roadmap
 
 | Module | Topics covered |
-|---|---|---|
+|---|---|
 | [Module 01 – Information Security Threats and Vulnerabilities](<Module 01 - Information Security Threats and Vulnerabilities/>) | Information security threats and vulnerabilities (1.1) | Complete |
 | [Module 02 – Information Security Attacks](<Module 02 - Information Security Attacks/>) | Information security attacks (1.2) | 
 | [Module 03 – Network Security Fundamentals](<Module 03 - Network Security Fundamentals/>) | Network security fundamentals (2.1) | 
