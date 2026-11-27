@@ -48,4 +48,3 @@ The table below summarizes the theory and practical question counts, total quest
 | **Total** | **8 domains** | **50** | **10** | **60** | **100** | **100%** |
 
 
-p
