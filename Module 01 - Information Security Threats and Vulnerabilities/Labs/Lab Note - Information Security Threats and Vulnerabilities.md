@@ -253,3 +253,51 @@ Tool / Site used: **Exploit Database (`https://www.exploit-db.com/`)**
    - Inspect the Python PoC exploit code (target software version, tested OS, CVE reference, ROP chain, and payload structure).
      ![Exploit code opened in Notepad++](./lab-screenshots/lab5_07_exploit_code_notepadpp.jpg)
 
+
+## Summary
+
+### Creating a Trojan (Theef RAT)
+1. **Launch Server:** Execute `Server210.exe` on the victim machine.
+2. **Launch Client:** Run `Client210.exe` on the attacker machine.
+3. **Establish Connection:** Enter the victim IP and connect using the default ports.
+4. **Gather Information:** Retrieve PC details, OS information, user directories, and network configuration.
+5. **Remote Monitoring:** Explore process management, screen capture, and keylogging capabilities.
+6. **Cleanup:** Close applications and shut down the victim machine.
+
+### Creating a Virus (JPS Virus Maker)
+1. **Take Snapshot:** Create a VMware snapshot to restore the victim system.
+2. **Configure Virus:** Launch JPS Virus Maker and select the available system modification options.
+3. **Generate Virus:** Create the executable payload (`Server.exe`).
+4. **Execute Payload:** Run the generated executable on the victim machine.
+5. **Observe Impact:** Examine desktop changes, disabled system utilities, and password modification.
+6. **Cleanup:** Revert the virtual machine to its original snapshot.
+
+### Creating a Worm (Internet Worm Maker Thing)
+1. **Launch Tool:** Run `Generator.exe` on the Web Server.
+2. **Configure Identity:** Define the worm name, author, version, and startup information.
+3. **Configure Payloads:** Explore available system modification, security disabling, and disruption options.
+4. **Generate Worm:** Create the worm executable/script (`worm.vbs`).
+5. **Verify Output:** Confirm that the generated file exists.
+6. **Cleanup:** Close applications and shut down the Web Server.
+
+### Using Spytech SpyAgent
+1. **Establish RDP Connection:** Connect to the Web Server from the AD Domain Controller.
+2. **Transfer Tool:** Copy Spytech SpyAgent to the target machine.
+3. **Install SpyAgent:** Complete installation and configure monitoring settings.
+4. **Enable Monitoring:** Start monitoring and configure stealth mode.
+5. **Simulate Activity:** Perform browsing and typing activities on the target machine.
+6. **Retrieve Logs:** Review captured keystrokes, screenshots, email activity, and event timelines.
+7. **Cleanup:** Close applications, disconnect RDP, and shut down the lab machines.
+
+### Finding Vulnerabilities on Exploit Sites
+1. **Access Exploit-DB:** Visit [Exploit-DB](https://www.exploit-db.com/).
+2. **Search Exploits:** Use advanced search filters to identify remote Windows exploits.
+3. **Select Exploit:** Locate the CloudMe Sync 1.11.2 Buffer Overflow exploit.
+4. **Review Details:** Examine its EDB-ID, CVE reference, platform, exploit type, and publication date.
+5. **Download PoC:** Download the corresponding Python exploit file (`46250.py`).
+6. **Analyze Code:** Inspect the exploit's target version, operating system, ROP chain, and payload structure.
+
+###  Conclusion
+
+The exercises demonstrated how Trojans, viruses, worms, and spyware compromise systems through unauthorized access, replication, surveillance, and system modification. The final exercise introduced vulnerability discovery and Proof-of-Concept analysis using Exploit-DB. These activities reinforced the importance of malware detection, vulnerability assessment, system hardening, and defensive security monitoring.
+
